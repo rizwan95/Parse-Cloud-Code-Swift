@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "sample_cloud"
+    },
+    "sample_cloud": {
+      "applicationId": "vKfF5z5SbKAOKtXV2RER7kibjFOw77jJiO6KXVwT"
+    }
+  }
+}
